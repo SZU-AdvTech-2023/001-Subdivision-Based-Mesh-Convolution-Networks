@@ -1,0 +1,9 @@
+@article{REPO001,
+    author = "Hu, Shi-Min and Liu, Zheng-Ning and Guo, Meng-Hao and Cai, Jun-Xiong and Huang, Jiahui and Mu, Tai-Jiang and Martin, Ralph R",
+    journal = "ACM Transactions on Graphics (TOG)",
+    number = "3",
+    pages = "1--16",
+    title = "{Subdivision-Based Mesh Convolution Networks}",
+    volume = "41",
+    year = "2022"
+}
