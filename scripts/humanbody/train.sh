@@ -1,0 +1,11 @@
+python3 train_seg.py train \
+--name humanbody \
+--dataroot ./data/HumanBody-NS-256-3 \
+--upsample bilinear \
+--batch_size 24 \
+--parts 8 \
+--augment_scale \
+--augment_orient \
+--lr 2e-2 \
+--arch deeplab \
+--backbone resnet50
